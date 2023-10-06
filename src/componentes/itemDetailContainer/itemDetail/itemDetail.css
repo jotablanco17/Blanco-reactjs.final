@@ -1,0 +1,18 @@
+.cardDetail{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.counter{
+margin: auto;
+}
+.cardProd{
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px;
+}
+.tittleDetail{
+    margin-bottom: 40px;
+    font-weight: bold;
+    
+}

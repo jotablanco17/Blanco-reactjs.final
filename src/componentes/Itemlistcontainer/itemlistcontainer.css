@@ -1,0 +1,6 @@
+.itemlistcontainer{
+    background-color: aliceblue;
+    padding: 60px;
+    display: flex;
+    align-items: center;
+}

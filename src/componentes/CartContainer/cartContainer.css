@@ -1,0 +1,40 @@
+.cardContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.tableCard{
+    display: flex;
+    
+}
+img{
+    border: 2px solid violet;
+    border-radius: 5%;
+    background-color: antiquewhite;
+}
+.taable{
+    width: 50%;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.tableTop{
+    height: 40px;
+}
+.tableDownn{
+    text-align: center;
+    font-weight: bold;
+    
+}
+form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 350px;
+}
+form input{
+    margin-top: 30px;
+    width: 45vh;
+    padding-left: 10px;
+}
+form button {
+    margin-top: 20px;
+}

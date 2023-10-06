@@ -1,0 +1,48 @@
+.barranav {
+    background-color: rgb(140, 39, 223);
+}
+
+#titulonav {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 190px;
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+
+}
+.iconTittle{
+    margin-right: 30px;
+    font-size: 45px;
+}
+
+.filtrolinks {
+    text-decoration: none;
+    color: white ;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.filtrolinks:hover{
+    transform: scale(1.2);
+    transition: all 0.7s;
+}
+
+.linkactivo {
+    animation: none;
+    text-decoration: none; 
+    margin-left: 40px;
+    font-size: 20px;
+    color: white ;
+    border-bottom: 1px solid white;
+    font-weight: bold;
+}
+.linkactivo:hover{
+    transform: scale(1.2);
+    transition: all 0.7s;
+}
+
+.widget {
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}

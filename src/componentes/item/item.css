@@ -1,0 +1,14 @@
+.price {
+    color: rgb(140, 39, 223);
+    margin-top: 10px;
+}
+.cardEach{
+    width: 400px !important; 
+    margin: 20px 20px;
+    margin-left: 90px;
+    transition: all 0.8s;
+}
+.cardEach:hover{
+    transform: scale(1.1);
+    
+}
