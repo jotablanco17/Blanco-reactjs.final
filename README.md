@@ -4,7 +4,7 @@ Nombre: Juan Martin blanco
 
 Mail : Jotablancoyt@gmail.com
 
-Deploy :
+Deploy : https://65209b36b8d01f0b6f8af14d--delicate-starship-e4ba7d.netlify.app/
 
 Librerias :
     "bootstrap": "^5.3.1",
